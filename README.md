@@ -9,10 +9,10 @@ This information is crowd-sourced, if you work at one of these companies you can
 |Company|Website URL|Tech Stacks (languages, frameworks)|Dev team size (range)|
 |-------|-----------|-----------------------------------|---------------------|
 |265Dates| https://265dates.com | PHP, Laravel, React, Nuxt ⁉️ | 1 - 5 |
-|Angle Dimension|https://angledimension.com|.NET, ASP, React, jQuery, Android Native| 5 - 10 |
+|Angle Dimension|https://angledimension.com|C#, .NET, ASP.NET Core, Blazor, jQuery, Flutter, Python, Node, .NET MAUI| 1 - 10 |
 |Baobab Health Trust|https://baobabhealth.org |Ruby, Ruby on Rails, Vue| 1 - 10 |
 |Centernary Bank | https://www.centenarybank.co.mw/ | C#, .NET, Vue ⁉️ | 1 - 10|
-|Credit Data CRB Ltd|https://creditdatamw.com|Java, Python, React, Vue, jQuery| 1 - 5 |
+|Credit Data CRB Ltd|https://creditdatamw.com|PHP, CakePHP, Java, Spring Boot, Python, React, Vue| 1 - 5 |
 |Credit Line |https://creditline.africa|C#, .NET, PHP, Laravel, Vue, Flutter ⁉️ | 1 - 5 |
 |⁠CTechPay | https://docs.ctechpay.com/ | Vue, PHP ⁉️| 1 - 5 |
 |Doorbell | https://doorbell.mw| C#, .NET Core, Go, Flutter | 1 - 5 |
@@ -25,7 +25,7 @@ This information is crowd-sourced, if you work at one of these companies you can
 |⁠Imosys | https://imosys.mw | PHP, Java, Codelgnitor, Vue, Laravel | 1 - 10|
 |InFocus Technologies| https://infocustech-mw.com/ | NodeJS, PHP, .NET, C# | 1 - 5 |
 |Malawi-Liverpool Wellcome Trust| https://www.mlw.mw/ | Python, PHP, NodeJS ⁉️ | 1 - 10 |
-|M-Tecnologies| https://www.m-technologiesmw.com/ | PHP, Laravel, Vue, NodeJS | 1 - 5 |
+|M-Technologies| https://www.m-technologiesmw.com/ | PHP, Laravel, Vue, NodeJS | 1 - 5 |
 |Mbera Solutions Limited| https://mberasolutions.com/ | PHP, Laravel, Vue, .NET | 1 - 5 |
 |mHub|https://mhubmw.com/| PHP, Laravel, NodeJS, React| 1 - 5 |
 |MlimiPay|https://mlimipay.com/| PHP, Laravel, NodeJS, Vue| 1 - 5 |

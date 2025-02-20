@@ -36,7 +36,6 @@ This information is crowd-sourced, if you work at one of these companies you can
 |⁠NNDI | https://nndi.cloud | Go, Python, Java, React, Vue | 1 -5 |
 |PayChangu| https://paychangu.com | PHP, Laravel, React, Wordpress | 1 - 10 |
 |Payrope| https://payrope.com| PHP, MySQL, Vue | 1 - 5 |
-|Rydberg Starck | https://rydbergstarck.com/ | Java, Laravel, Spring Boot, Flutter | 1 - 5 |
 |⁠Sparc Systems | https://www.sparcsystems.africa/| Ruby on Rails, PHP, Laravel, Python, Node | 1 - 5|
 |Sygen | https://sygenmw.com/ | Flutter, Firebase, React | 1 - 5 |
 |⁠TelcoMw | https://telcomw.com/ | PHP, CodeIgniter, jQuery, Android Native | 1 - 5 |
